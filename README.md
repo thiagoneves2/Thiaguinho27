@@ -1,13 +1,13 @@
 <center>
   <h1> Hi there 👋 My name is Thiago!</h1>
-  - 🌱 I’m currently learning python 
-     <img src="https://i.pinimg.com/originals/88/15/63/881563d6444b370fa4ceea0c3183bb4c.gif" href="#" width="100%" height="50px" style="overflow:hidden"/>
-  - 💬 Ask me about doubts you may have about: C, C++, Java, Javascript, React or anything else!
-  - ⚡ Fun fact: to do this README file you just have to create a repositorie with rou name!
-  - Hope you enjoyed! Bye 👋
-  <img src="https://pa1.narvii.com/6989/dde19972c93cfe626a69b72106095a19346215f7r1-287-400_hq.gif" href="#"/>
 </center>
 
+<img src="https://i.pinimg.com/originals/88/15/63/881563d6444b370fa4ceea0c3183bb4c.gif" href="#" width="100%" height="50px" style="overflow:hidden"/>
+###  - 🌱 I’m currently learning python 
+###  - 💬 Ask me about doubts you may have about: C, C++, Java, Javascript, React or anything else!
+###  - ⚡ Fun fact: to do this README file you just have to create a repositorie with rou name!
+###  - Hope you enjoyed! Bye 👋
+<img src="https://pa1.narvii.com/6989/dde19972c93cfe626a69b72106095a19346215f7r1-287-400_hq.gif" href="#"/>
 <!--
 **Thiaguinho27/Thiaguinho27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
