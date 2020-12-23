@@ -1,5 +1,9 @@
-### Hi there 👋
-
+### Hi there 👋 My name is Thiago!
+### - 🌱 I’m currently learning python 
+### - 💬 Ask me about doubts you may have about: C, C++, Java, Javascript, React or anything else!
+### - ⚡ Fun fact: to do this README file you just have to create a repositorie with rou name!
+### - Hope you enjoyed! Bye 👋
+<img src="https://pa1.narvii.com/6989/dde19972c93cfe626a69b72106095a19346215f7r1-287-400_hq.gif" />
 <!--
 **Thiaguinho27/Thiaguinho27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
