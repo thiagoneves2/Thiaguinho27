@@ -5,7 +5,9 @@
 <h3>💬 Ask me about doubts you may have about: C, C++, Java, Javascript, React or anything else!</h3>
 <h3>⚡ Fun fact: to do this README file you just have to create a repositorie with rou name!</h3>
 <h3>Hope you enjoyed! Bye 👋</h3>
-<img src="https://pa1.narvii.com/6989/dde19972c93cfe626a69b72106095a19346215f7r1-287-400_hq.gif" href="#"/>
+<center>
+<img src="https://pa1.narvii.com/6989/dde19972c93cfe626a69b72106095a19346215f7r1-287-400_hq.gif" style="margin-left: 50%"/>
+</center>
 <!--
 **Thiaguinho27/Thiaguinho27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
