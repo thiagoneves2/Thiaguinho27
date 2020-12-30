@@ -1,11 +1,11 @@
 
 <center>
-<h1> Hi there 👋 My name is Thiago!</h1>
+<h1>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Hi there 👋 My name is Thiago!</h1>
 </center>
 
 <h2>GitHub Stats</h2>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dark)](#) [![ReadMe Card](https://github-readme-stats.vercel.app/api?username=thiaguinho27&show_icons=true&theme=dark)](#)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api?username=thiaguinho27&show_icons=true&theme=dark)](#) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dark)](#) 
 
 <h2>Questions and answers</h2>
  
@@ -18,7 +18,7 @@ Question | Answer
 👯Collabs ? | Call me for any project
 
 <p align="center">
-<h3>Hope you enjoyed! Bye 👋</h3>
+<h3>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hope you enjoyed! Bye 👋</h3>
 </p>
 
 <!--
