@@ -1,6 +1,7 @@
 
 
 <h1> Hi there 👋 My name is Thiago!</h1>
+<img src="https://i.pinimg.com/originals/5a/3f/f6/5a3ff695c1efa2223b3974fafd2d4b3a.gif" href="#" width="100%" height="50px" style="overflow:hidden"/>
 
 <h2>GitHub Stats</h2>
 
