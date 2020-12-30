@@ -4,6 +4,16 @@
 
 <img src="https://i.pinimg.com/originals/5a/3f/f6/5a3ff695c1efa2223b3974fafd2d4b3a.gif" href="#" width="100%" height="50px" style="overflow:hidden"/>
 
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=radical) ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=thiaguinho27&repo=haar-cascade-generator&theme=radical)
+
+<a href="#">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=thiaguinho27&show_icons=true&theme=radical" />
+</a>
+
+<img src="https://i.pinimg.com/originals/5a/3f/f6/5a3ff695c1efa2223b3974fafd2d4b3a.gif" href="#" width="100%" height="50px" style="overflow:hidden"/>
+
 Question | Answer
 ------------ | -------------
 🌱Learning? | Python
