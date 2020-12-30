@@ -1,25 +1,14 @@
 
-
+<center>
 <h1> Hi there 👋 My name is Thiago!</h1>
-<a href="#">
- <img src="https://i.pinimg.com/originals/5a/3f/f6/5a3ff695c1efa2223b3974fafd2d4b3a.gif" href="#" width="100%" height="50px" style="overflow:hidden"/>
-</a>
+</center>
 
 <h2>GitHub Stats</h2>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=radical)](#) [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=thiaguinho27&repo=haar-cascade-generator&theme=radical)](#)
-
-<a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=thiaguinho27&show_icons=true&theme=radical" />
-</a>
-
-
-<a href="#">
-<img src="https://i.pinimg.com/originals/5a/3f/f6/5a3ff695c1efa2223b3974fafd2d4b3a.gif" href="#" width="100%" height="50px" style="overflow:hidden"/>
-</a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dark)](#) [![ReadMe Card](https://github-readme-stats.vercel.app/api?username=thiaguinho27&show_icons=true&theme=dark)](#)
 
 <h2>Questions and answers</h2>
-
+ 
 Question | Answer
 ------------ | -------------
 🌱Learning? | Python
@@ -28,8 +17,9 @@ Question | Answer
 ⚡Fun fact | Create a repository with your name...
 👯Collabs ? | Call me for any project
 
+<p align="center">
 <h3>Hope you enjoyed! Bye 👋</h3>
-
+</p>
 
 <!--
 **Thiaguinho27/Thiaguinho27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
