@@ -5,7 +5,7 @@
 
 <h2>GitHub Stats</h2>
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api?username=thiaguinho27&show_icons=true&theme=dark)](#) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dark)](#) 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api?username=thiagoneves2&show_icons=true&theme=dark)](#) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dark)](#) 
 
 
 <!--
