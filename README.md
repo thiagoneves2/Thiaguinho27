@@ -19,6 +19,5 @@ My name is Thiago Neves undergraduate student of Electrical Engineering at Unive
   <summary>stats</summary>
   
   
-  ![stats](https://github-readme-stats.vercel.app/api?username=thiagoneves2&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&show_icons=true&hide_rank=false&icon_color=6381AF&hide_title=true&disable_animations=true)
-
+  [![stats](https://github-readme-stats.vercel.app/api?username=thiagoneves2)](https://github.com/anuraghazra/github-readme-stats)
  ![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thiagoneves2&layout=compact&theme=tokyonight&include_all_commits=true&count_private=true&text_color=FFFF)
